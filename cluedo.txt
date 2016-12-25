@@ -18,12 +18,12 @@ Weapon:
 [ ] Trophy
 
 Rooms:
-[ ] Dining Room
+[ ] DiningRoom
 [ ] Hall
-[ ] Living Room
+[ ] LivingRoom
 [ ] Patio
 [ ] Theater
-[ ] Guest House
+[ ] GuestHouse
 [ ] Kitchen
 [ ] Observatory
 [ ] Spa
