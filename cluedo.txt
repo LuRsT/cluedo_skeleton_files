@@ -1,0 +1,29 @@
+Guests:
+[ ] Mustard
+[ ] Plum
+[ ] Green
+[ ] Peacock
+[ ] Scarlet
+[ ] White
+
+Weapon:
+[ ] Axe
+[ ] Candlestick
+[ ] Pistol
+[ ] Poison
+[ ] Bat
+[ ] Dumbell
+[ ] Knife
+[ ] Rope
+[ ] Trophy
+
+Rooms:
+[ ] Dining Room
+[ ] Hall
+[ ] Living Room
+[ ] Patio
+[ ] Theater
+[ ] Guest House
+[ ] Kitchen
+[ ] Observatory
+[ ] Spa
